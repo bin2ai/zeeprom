@@ -1,0 +1,10 @@
+ZEEPROM=ZEEPROM Library
+Non-volatile memory=Non-volatile memory storage
+EEPROM=Electrically Erasable Programmable Read-Only Memory
+Arduino=Arduino IDE
+Data storage=Data storage library
+Configuration settings=Arduino configuration management
+Settings storage=Settings storage library
+Memory management=EEPROM memory management
+Data persistence=Data persistence on Arduino
+Configuration=Arduino configuration library
